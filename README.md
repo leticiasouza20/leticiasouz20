@@ -6,11 +6,9 @@ Atualmente, atuo como **Jovem Aprendiz na área de Gestão de Projetos**.
 
 ## 📊 Estatísticas do GitHub
 
-<div>
-  <a href="https://github.com/leticiasouza20">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiasouza20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasouza20&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiasouza20&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasouza20&layout=compact&theme=dracula"/>
 </div>
 
 ## 💻 Tecnologias
