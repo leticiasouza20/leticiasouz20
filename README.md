@@ -2,6 +2,9 @@
 
 🎓 Graduanda em **Engenharia de Software**.
 
+## 🛠️ Linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasouza20&layout=compact&theme=tokyonight)
+
 ## 💻 Tecnologias
 
 <div style="display: inline_block"><br>
