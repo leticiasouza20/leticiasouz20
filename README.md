@@ -1,7 +1,5 @@
 # Olá, pessoal! 👋
 
-Atualmente, atuo como **Jovem Aprendiz na área de Gestão de Projetos**.
-
 🎓 Graduanda em **Engenharia de Software**.
 
 ## 💻 Tecnologias
