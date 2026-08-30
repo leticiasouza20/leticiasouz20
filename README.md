@@ -2,10 +2,14 @@
 
 🎓 Graduanda em **Engenharia de Software**.
 
-## 🛠️ Linguagens
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiasouza20&show_icons=true&theme=tokyonight)
-</div>
+## 📊 Minhas estatísticas
 
+<div align="center">
+
+<img src="./profile/stats.svg" width="48%" />
+<img src="./profile/top-langs.svg" width="48%" />
+
+</div>
 
 ## 💻 Tecnologias
 
